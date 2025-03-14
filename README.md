@@ -38,9 +38,10 @@ AI-powered-Resume-Screening-and-Ranking-System/
 
 - Clone the Repository:
 ```
-git clone https://github.com/yourusername/AI-powered-Resume-Screening-and-Ranking-System.git
+git clone https://github.com/Mandeep-Singh18/AI-powered-Resume-Screening-and-Ranking-System.git
 
 cd AI-powered-Resume-Screening-and-Ranking-System
+
 ```
 
 - Install Dependencies:
