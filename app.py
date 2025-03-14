@@ -10,11 +10,11 @@ st.markdown(
     <style>
     /* Global styles */
     body {
-        background-color: #f0f4f8;
+        background-color: #ffffff;
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
     .stApp {
-        background-color: #f0f4f8;
+        background-color: #ffffff;
     }
     /* Main header style */
     .main-header {
@@ -142,6 +142,6 @@ if uploaded_files and job_description:
     st.markdown("<h2 class='sub-header'> Resume Ranking Chart</h2>", unsafe_allow_html=True)
     st.bar_chart(results.set_index("Resume"))
 elif not job_description:
-    st.info("Please enter a job description.")
+    st.info("Please enter details in sidebar.")
 elif not uploaded_files:
     st.info("Please upload at least one PDF resume.")
