@@ -4,6 +4,11 @@
 ## Project Description
 The **AI Resume Screening & Ranking System** is an innovative web application designed to help recruiters and HR professionals streamline the resume evaluation process. By leveraging Natural Language Processing (NLP) techniques, the system extracts text from uploaded PDF resumes and compares them to a given job description. It then ranks each resume based on the cosine similarity of their textual content, displaying the results in an intuitive and visually appealing interface.
 
+## Deployed on Streamlit
+```
+https://mandeep-singh18-ai-powered-resume-screening-and-rank-app-8c8qte.streamlit.app/      
+```
+
 ## Features
 - **Resume Upload:** Easily upload multiple PDF resumes.
 - **Job Description Input:** Enter a job description against which the resumes will be evaluated.
